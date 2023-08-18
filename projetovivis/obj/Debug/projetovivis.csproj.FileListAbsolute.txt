@@ -1,0 +1,10 @@
+C:\Users\aluno\source\repos\projetovivis\projetovivis\bin\Debug\projetovivis.exe.config
+C:\Users\aluno\source\repos\projetovivis\projetovivis\bin\Debug\projetovivis.exe
+C:\Users\aluno\source\repos\projetovivis\projetovivis\bin\Debug\projetovivis.pdb
+C:\Users\aluno\source\repos\projetovivis\projetovivis\obj\Debug\projetovivis.csprojAssemblyReference.cache
+C:\Users\aluno\source\repos\projetovivis\projetovivis\obj\Debug\projetovivis.Form1.resources
+C:\Users\aluno\source\repos\projetovivis\projetovivis\obj\Debug\projetovivis.Properties.Resources.resources
+C:\Users\aluno\source\repos\projetovivis\projetovivis\obj\Debug\projetovivis.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\projetovivis\projetovivis\obj\Debug\projetovivis.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\projetovivis\projetovivis\obj\Debug\projetovivis.exe
+C:\Users\aluno\source\repos\projetovivis\projetovivis\obj\Debug\projetovivis.pdb
